@@ -38,8 +38,8 @@ services:
     environment:
       DEBUG: false
       PORT: 3000
-      FLOWISE_USERNAME: xneo1
-      FLOWISE_PASSWORD: xneo1portainer
+      FLOWISE_USERNAME: schwarzspecht
+      FLOWISE_PASSWORD: schwarzspechtportainer
       DATABASE_PATH: /root/.flowise
       APIKEY_PATH: /root/.flowise
       SECRETKEY_PATH: /root/.flowise

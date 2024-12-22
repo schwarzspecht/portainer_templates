@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xneo1/portainer_templates.git"
+    "url": "git+https://github.com/schwarzspecht/portainer_templates.git"
   },
-  "author": "xneo1",
+  "author": "schwarzspecht",
   "license": "GPLv3"
 }

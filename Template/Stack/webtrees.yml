@@ -34,7 +34,7 @@ services:
        TZ: Europe/Athens
        BASE_URL: https://webtrees.homelab # Input a correct url for your homelab
        PRETTY_URLS: TRUE
-       WT_USER: xneo1
+       WT_USER: schwarzspecht
        WT_PASS: webtreespwd
        WT_NAME: Your Name
        WT_EMAIL: me@email.com

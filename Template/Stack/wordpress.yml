@@ -19,7 +19,7 @@ services:
       - /portainer/Files/AppData/Config/wordpress/upload.ini:/usr/local/etc/php/conf.d/upload.ini:rw
     environment:
       WORDPRESS_DB_HOST: wordpress_db
-      WORDPRESS_DB_USER: xneo1
+      WORDPRESS_DB_USER: schwarzspecht
       WORDPRESS_DB_PASSWORD: thepaassword
       WORDPRESS_DB_NAME: thewp_db
     restart: on-failure:5
@@ -33,9 +33,9 @@ services:
     ports:
       - 3307:3306
     environment:
-      MYSQL_DATABASE: xneo1_db
-      MYSQL_USER: xneo1
-      MYSQL_PASSWORD: xneo1pwd
+      MYSQL_DATABASE: schwarzspecht_db
+      MYSQL_USER: schwarzspecht
+      MYSQL_PASSWORD: schwarzspechtpwd
       MYSQL_ROOT_PASSWORD: rootpass
       TZ: Europe/Athens
     volumes:

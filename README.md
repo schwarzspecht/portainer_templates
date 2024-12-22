@@ -20,7 +20,7 @@ This is a template focused on helping people spin up selfhosted services using P
 
 1. Login to your Portainer setup go to settings
 2. Go to:  Application settings > App Templates
-3. Add the url: `https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json` then go to app templates and hit refresh at the top.
+3. Add the url: `https://raw.githubusercontent.com/schwarzspecht/portainer_templates/master/Template/template.json` then go to app templates and hit refresh at the top.
 
 ### Information
 All templates are already configured to bind mount to various places on your drive. The following folders are all created in **/portainer/**
@@ -880,8 +880,8 @@ Wiki:
 * **NASHosted** - *Current Work* - [NASHOSTED](https://github.com/nashosted)
 * **SelfhostedPro** - *Current Work* - [SelfhostedPro](https://github.com/SelfhostedPro)
 * **Jos Visser** - *Initial work* - [Qballjos](https://github.com/Qballjos)
-* **Vagelis Fragkos** - *This forked repo from Qballjos* - [xneo1](https://github.com/xneo1)
+* **Vagelis Fragkos** - *This forked repo from Qballjos* - [schwarzspecht](https://github.com/schwarzspecht)
 * **xe-nvdk** - *template conversion to portainer V2* - [xe-nvdk](https://github.com/xe-nvdk)
 * **tbiering** - *Template cleanup and typo fixes* - [tbiering](https://github.com/tbiering)
 
-See also the list of [contributors](https://github.com/xneo1/portainer_templates/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/schwarzspecht/portainer_templates/graphs/contributors) who participated in this project.
